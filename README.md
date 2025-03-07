@@ -20,7 +20,7 @@ The 0day Scraper is a Python application designed to scrape and process data fro
 1. Clone the repository:
    ```bash   
    git clone <your-repo-url>
-   cd 0day_scraper
+   cd CNWC
    
 2. Install the required packages:
    ```bash
