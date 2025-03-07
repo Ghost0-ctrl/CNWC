@@ -4,26 +4,21 @@
 The 0day Scraper is a Python application designed to scrape and process data from various sources. It includes a graphical user interface (GUI) for reading CSV files and other functionalities. Please note that this is still a work-in-progress and is still far from finished.
 
 Future Features i plan to add:
-
-🔹 ### **0day Scraper**
-
+- **0day Scraper**:
 Scrapes Exploit-DB for the latest vulnerabilities.
 Fetches zero-day exploit news from an online news API.
 Summarizes exploit descriptions using AI-powered text summarization.
 
-🔹 ### **Threat Intelligence Integrations**
-
+- **Threat Intelligence Integrations**:
 Queries Shodan for additional threat insights.
 Fetches VirusTotal API data (planned feature).
 
-🔹 ### **CSV Reader GUI**
-
+- **CSV Reader GUI**:
 Loads scraped exploit data from CSV.
 Provides an interactive dark-themed interface for easy navigation.
 Displays pie chart visualizations for exploit trends.
 
-🔹 ### **Automation & Export**
-
+- **Automation & Export**:
 Saves scraped exploits and news into CSV files for further analysis.
 Auto-executes the CSV Reader GUI after scraping.
 ---
