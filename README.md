@@ -1,7 +1,7 @@
 # 0day Scraper
 
 ## Description
-The 0day Scraper is a Python application designed to scrape and process data from various sources. It includes a graphical user interface (GUI) for reading CSV files and other functionalities.
+The 0day Scraper is a Python application designed to scrape and process data from various sources. It includes a graphical user interface (GUI) for reading CSV files and other functionalities. Please note that this is still a work-in-progress and is still far from finished.
 
 ## Requirements
 - Python 3.11 or higher
